@@ -1,4 +1,4 @@
-<h1 align="center">MaxPhisher</h1>
+<h1 align="center">MaxPhisher (PT-br)</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.2-green?style=for-the-badge">
